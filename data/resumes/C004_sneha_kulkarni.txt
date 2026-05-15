@@ -1,0 +1,16 @@
+CANDIDATE ID: C004
+Name: Sneha Kulkarni | Pune
+
+SUMMARY: Frontend dev 3.5 years. Strong React, no Redux experience.
+
+EXPERIENCE:
+Frontend Dev | Persistent Systems | 2021-Present
+- React dashboards for healthcare analytics
+- TypeScript, React Query
+- Jest unit tests, 70% coverage
+
+Junior Frontend | Cognizant | 2020-2021
+- Angular + RxJS, BFSI clients
+
+SKILLS: React (3yr), TypeScript (2.5yr), React Query, Context API, Jest, Angular (1yr)
+EDUCATION: B.E. CE | CoEP Pune | 2020 | 8.1 CGPA

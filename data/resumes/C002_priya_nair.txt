@@ -1,0 +1,18 @@
+CANDIDATE ID: C002
+Name: Priya Nair | Bangalore
+
+SUMMARY: Full-stack dev, 4 years, frontend-focused. Strong React + GraphQL.
+
+EXPERIENCE:
+Frontend Dev | Razorpay | 2021-Present
+- React + TypeScript, 10M+ users
+- GraphQL with Apollo Client
+- Zustand state management
+- Docker, GitHub Actions CI/CD
+
+Software Engineer | Freshworks | 2020-2021
+- React CRM product, REST APIs
+
+SKILLS: React (4yr), TypeScript (3yr), GraphQL, Apollo, Zustand, Docker, Next.js
+EDUCATION: B.E. IT | BITS Pilani | 2020 | 9.1 CGPA
+CERTIFICATIONS: AWS Developer Associate, Meta Frontend Certificate

@@ -1,0 +1,21 @@
+Job Title: Senior Frontend Developer
+Company: TechCorp India | Location: Pune (Hybrid)
+
+Must-Have:
+- 3+ years React.js
+- TypeScript proficiency
+- REST APIs, Redux/Zustand
+- Jest, React Testing Library
+- B.Tech CS or related
+
+Nice-To-Have:
+- Next.js / SSR
+- GraphQL
+- SaaS product experience
+- Open source contributions
+- Docker/Kubernetes
+
+Responsibilities:
+- Lead frontend architecture
+- Mentor junior developers
+- Code reviews, quality assurance

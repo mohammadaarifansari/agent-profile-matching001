@@ -1,0 +1,19 @@
+CANDIDATE ID: C001
+Name: Arjun Sharma | Pune, Maharashtra
+
+SUMMARY: Frontend developer, 5 years React experience.
+
+EXPERIENCE:
+Senior Frontend Dev | Infosys Pune | 2022-Present
+- React + TypeScript migration, 40% perf improvement
+- Redux Toolkit, component library for 8 teams
+- Mentored 4 junior devs
+
+Frontend Dev | Wipro Pune | 2019-2022
+- React apps for banking clients
+- REST APIs, JWT auth
+- Jest unit tests, 85% coverage
+
+SKILLS: React (5yr), TypeScript (3yr), Redux Toolkit, Zustand, Jest, Next.js, Git
+EDUCATION: B.Tech CS | PICT Pune | 2019 | 8.4 CGPA
+OPEN SOURCE: react-query contributor (12 PRs), UI lib (450 GitHub stars)

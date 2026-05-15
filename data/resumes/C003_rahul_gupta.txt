@@ -1,0 +1,16 @@
+CANDIDATE ID: C003
+Name: Rahul Gupta | Delhi
+
+SUMMARY: Backend developer, learning React for full-stack transition.
+
+EXPERIENCE:
+Backend Dev | Zomato | 2020-Present
+- Django/FastAPI, 5M daily requests
+- PostgreSQL, Redis (60% latency reduction)
+- React basics for internal dashboards (6 months only)
+
+Junior Dev | Startup | 2019-2020
+- Python, Flask APIs
+
+SKILLS: Python (5yr), Django, FastAPI, React (6mo-beginner), PostgreSQL, Redis, Docker
+EDUCATION: B.Tech CS | DTU Delhi | 2019 | 7.8 CGPA
